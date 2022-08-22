@@ -52,7 +52,7 @@ img
 {
     0% {left:0px; top: 0px;}
     15% {left: 800px; top: 0px;}
-    30% {left: 800px; top: 700px; rotate: 1080deg;}
+    30% {left: 800px; top: 700px;}
     55% {left: 500px; top: -300px;}
     60% {left: 900px; top: -100px;}
     65% {left: 0px; top: -200px;}
@@ -60,7 +60,7 @@ img
     85% {left: 0px; top: 200px;}
     87% {left: 900px; top: 100px;}
     89% {left: 0px; top: 0px;}
-    90% {left: 900px; top: -300px;}
+    90% {left: 900px; top: -300px; rotate: 1080deg;}
     91% {left: 800px; top: 300px;}
     92% {left: 700px; top: -300px;}
     93% {left: 600px; top: 300px;}
